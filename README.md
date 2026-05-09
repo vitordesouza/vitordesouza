@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left">I'm a Brazilian software developer with over nine years of experience in programming and a passion for creating valuable virtual experiences. <br><br>I focus on Javascript and Typescript applications, and I've been living and working in Portugal since 2018.</p>
-
+<p align="left">I'm a Brazilian senior dev with 13+ years shipping production-grade web and mobile products across startups, scale-ups, and enterprise. <br><br>I operate where complexity is the product: realtime pipelines, cross-platform state, mobile lifecycle, AI integrations, multi-team coordination. </p>
+<!--
 ###
 
 <p align="left"></p>
@@ -17,7 +17,7 @@
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,vuejs" />
 
 ###
-<!--
+
 **vitordesouza/vitordesouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
